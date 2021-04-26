@@ -1,2 +1,2 @@
-# Define the variable board below.
-board = array
+# Define the variable boputs board
+puts board = [" " , " " , " " , " " , " " , " ", " " , " " , " "]
